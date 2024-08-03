@@ -15,7 +15,7 @@ function Footer() {
               <div className="contact-info logo-box col-lg-4 col-md-12 wow fadeInUp text-center">
                 <div className="logo">
                   <a href="#">
-                    <img src="images/The-ICT-hub-white.png" alt="" />
+                    <img src="images/The-ICT-hub-white.png" alt="The-ICT-hub-white" />
                   </a>
                 </div>
               </div>
@@ -195,11 +195,11 @@ function Footer() {
         </div>
       </footer>
       {/*End Main Footer */}
-      <div class="scroll-to-top scroll-to-target" data-target="html">
-        <span class="fa fa-angle-up"></span>
+      <div className="scroll-to-top scroll-to-target" data-target="html">
+        <span className="fa fa-angle-up"></span>
       </div>
       {/* <Script src="js/jquery.js"></Script> */}
-      <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+      <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossOrigin="anonymous"></script>
       <Script src="js/popper.min.js"></Script>
       <Script src="/plugins/revolution/js/jquery.themepunch.revolution.min.js"></Script>
       <Script src="/plugins/revolution/js/jquery.themepunch.tools.min.js"></Script>

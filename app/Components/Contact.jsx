@@ -6,7 +6,7 @@ function Contact() {
       <section className="contact-section">
         <div className="bg bg-pattern-6" />
         <div className="bg-image">
-          <img src="images/resource/girl.png" alt="" />
+          <img src="images/resource/girl.png" alt="girl.png" />
         </div>
         <div className="auto-container">
           <div className="row">

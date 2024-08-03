@@ -16,7 +16,7 @@ function Blog() {
                   <div className="image-box">
                     <figure className="image">
                       <a href="news-details.html">
-                        <img src="images/resource/news-1.jpg" alt="" />
+                        <img src="images/resource/news-1.jpg" alt="image" />
                       </a>
                     </figure>
                     <span className="date">
@@ -26,7 +26,7 @@ function Blog() {
                   </div>
                   <div className="lower-content">
                     <div className="author-thumb">
-                      <img src="images/resource/avatar.jpg" alt="" />
+                      <img src="images/resource/avatar.jpg" alt="image" />
                     </div>
                     <ul className="post-info">
                       <li>by Admin</li>
@@ -52,7 +52,7 @@ function Blog() {
                   <div className="image-box">
                     <figure className="image">
                       <a href="news-details.html">
-                        <img src="images/resource/news-2.jpg" alt="" />
+                        <img src="images/resource/news-2.jpg" alt="image" />
                       </a>
                     </figure>
                     <span className="date">
@@ -62,7 +62,7 @@ function Blog() {
                   </div>
                   <div className="lower-content">
                     <div className="author-thumb">
-                      <img src="images/resource/avatar.jpg" alt="" />
+                      <img src="images/resource/avatar.jpg" alt="image" />
                     </div>
                     <ul className="post-info">
                       <li>by Admin</li>
@@ -88,7 +88,7 @@ function Blog() {
                   <div className="image-box">
                     <figure className="image">
                       <a href="news-details.html">
-                        <img src="images/resource/news-3.jpg" alt="" />
+                        <img src="images/resource/news-3.jpg" alt="image" />
                       </a>
                     </figure>
                     <span className="date">
@@ -98,7 +98,7 @@ function Blog() {
                   </div>
                   <div className="lower-content">
                     <div className="author-thumb">
-                      <img src="images/resource/avatar.jpg" alt="" />
+                      <img src="images/resource/avatar.jpg" alt="image" />
                     </div>
                     <ul className="post-info">
                       <li>by Admin</li>

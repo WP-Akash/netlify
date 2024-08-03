@@ -15,9 +15,9 @@ function page() {
   return (
     <>
       <Breadcrumb page_title="Services" />
-      <section class="services-section bg-white">
-		<div class="auto-container">
-            <div class="row">
+      <section className="services-section bg-white">
+		<div className="auto-container">
+            <div className="row">
             <Single_service count="1" service_link={dynamicHref} service_title_1="SOFTWARE" service_title_2="DEVELOPMENT SERVICE" service_info="The ICT Hub help you maximize your potential in software development services by infusing the operational ….." />
             <Single_service count="2" service_link={dynamicHref2} service_title_1="WEB" service_title_2="APPLICATION SERVICE" service_info="We specialize in creating efficient and engaging web applications from scratch by utilizing industry-standard web app ….." />
             <Single_service count="3" service_link={dynamicHref3} service_title_1="E-COMMERCE &" service_title_2="MARKETPLACE DEVELOPMENT" service_info="We offer e-commerce and marketplace-building services to assist businesses in establishing an online presence and effortlessly reaching clients. " />

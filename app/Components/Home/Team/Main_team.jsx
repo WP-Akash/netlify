@@ -16,7 +16,7 @@ function Main_team() {
                   <div className="image-box">
                     <figure className="image">
                       <a href="page-team-details.html">
-                        <img src="images/resource/team-1.jpg" alt="" />
+                        <img src="images/resource/team-1.jpg" alt="image" />
                       </a>
                     </figure>
                     <div className="social-links">
@@ -52,7 +52,7 @@ function Main_team() {
                   <div className="image-box">
                     <figure className="image">
                       <a href="page-team-details.html">
-                        <img src="images/resource/team-3.jpg" alt="" />
+                        <img src="images/resource/team-3.jpg" alt="image" />
                       </a>
                     </figure>
                     <div className="social-links">
@@ -88,7 +88,7 @@ function Main_team() {
                   <div className="image-box">
                     <figure className="image">
                       <a href="page-team-details.html">
-                        <img src="images/resource/team-3.jpg" alt="" />
+                        <img src="images/resource/team-3.jpg" alt="image" />
                       </a>
                     </figure>
                     <div className="social-links">

@@ -5,7 +5,7 @@ export default function Automotive() {
         <>
             <div className="row d-flex align-items-center  mb-5">
                 <div className="col-xl-6 col-lg-6">
-                    <img src="images/industry/Automotive.jpg" className='img-fluid' alt="" />
+                    <img src="images/industry/Automotive.jpg" className='img-fluid' alt="image" />
                 </div>
                 <div className="col-xl-6 col-lg-6">
                     <div className="services-details__content content mt-40" id="Health_Care">

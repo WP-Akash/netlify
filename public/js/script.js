@@ -56,7 +56,7 @@ var THEMEMASCOT = {};
 
 	//Submenu Dropdown Toggle
 	if($('.main-header li.dropdown ul').length){
-		$('.main-header .navigation li.dropdown').append('<div class="dropdown-btn"><i class="fa fa-angle-down"></i></div>');
+		$('.main-header .navigation li.dropdown').append('<div className="dropdown-btn"><i className="fa fa-angle-down"></i></div>');
 	}
 
 	//Mobile Nav Hide Show
@@ -112,7 +112,7 @@ var THEMEMASCOT = {};
 			autoHeight: true,
 			autoplay: true,
 			autoplayTimeout:10000,
-			navText: [ '<span class="fa fa-long-arrow-alt-left"></span>', '<span class="fa fa-long-arrow-alt-right"></span>' ],
+			navText: [ '<span className="fa fa-long-arrow-alt-left"></span>', '<span className="fa fa-long-arrow-alt-right"></span>' ],
 			responsive:{
 				0:{
 					items:1
@@ -172,7 +172,7 @@ var THEMEMASCOT = {};
 			nav: false,
 			smartSpeed: 400,
 			autoplay: true,
-			navText: ['<span class="fa fa-long-arrow-alt-left"></span>', '<span class="fa fa-long-arrow-alt-right"></span>'],
+			navText: ['<span className="fa fa-long-arrow-alt-left"></span>', '<span className="fa fa-long-arrow-alt-right"></span>'],
 			responsive: {
 				0: {
 					items: 1
@@ -196,7 +196,7 @@ var THEMEMASCOT = {};
 			nav: true,
 			smartSpeed: 400,
 			autoplay: true,
-			navText: ['<span class="fa fa-long-arrow-alt-left"></span>', '<span class="fa fa-long-arrow-alt-right"></span>'],
+			navText: ['<span className="fa fa-long-arrow-alt-left"></span>', '<span className="fa fa-long-arrow-alt-right"></span>'],
 			responsive: {
 				0: {
 					items: 1
@@ -223,7 +223,7 @@ var THEMEMASCOT = {};
 			nav: true,
 			smartSpeed: 400,
 			autoplay: true,
-			navText: ['<span class="fa fa-long-arrow-alt-left"></span>', '<span class="fa fa-long-arrow-alt-right"></span>'],
+			navText: ['<span className="fa fa-long-arrow-alt-left"></span>', '<span className="fa fa-long-arrow-alt-right"></span>'],
 			responsive: {
 				0: {
 					items: 1
@@ -251,7 +251,7 @@ var THEMEMASCOT = {};
 			items: 1,
 			smartSpeed: 700,
 			autoplay: 5000,
-			navText: ['<span class="fa fa-chevron-left"></span>', '<span class="fa fa-chevron-right"></span>'],
+			navText: ['<span className="fa fa-chevron-left"></span>', '<span className="fa fa-chevron-right"></span>'],
 			responsive: {
 				0: {
 					items: 1
@@ -337,7 +337,7 @@ var THEMEMASCOT = {};
 			nav: false,
 			smartSpeed: 400,
 			autoplay: true,
-			navText: ['<span class="fa fa-angle-left"></span>', '<span class="fa fa-angle-right"></span>'],
+			navText: ['<span className="fa fa-angle-left"></span>', '<span className="fa fa-angle-right"></span>'],
 			responsive: {
 				0: {
 					items: 1
@@ -475,8 +475,8 @@ var THEMEMASCOT = {};
 		$('.product-details .bxslider').bxSlider({
         nextSelector: '.product-details #slider-next',
         prevSelector: '.product-details #slider-prev',
-        nextText: '<i class="fa fa-angle-right"></i>',
-        prevText: '<i class="fa fa-angle-left"></i>',
+        nextText: '<i className="fa fa-angle-right"></i>',
+        prevText: '<i className="fa fa-angle-left"></i>',
         mode: 'fade',
         auto: 'true',
         speed: '700',

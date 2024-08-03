@@ -13,7 +13,7 @@ function Government() {
                     </div>
                 </div>
                 <div className="col-xl-6 col-lg-6">
-                    <img src="images/industry/Government.png" className='img-fluid' alt="" />
+                    <img src="images/industry/Government.png" className='img-fluid' alt="image" />
                 </div>
             </div>
 

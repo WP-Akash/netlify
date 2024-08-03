@@ -132,63 +132,63 @@ const dynamicHref9 = "/services/digital-marketing-solutions";
                       </h2>
                       <ul className="list-style-two text">
                         <li>
-                          <i class="fa fa-check-circle"></i> Research and
+                          <i className="fa fa-check-circle"></i> Research and
                           Analysis of Customers Need, interest and Concern
                         </li>
                         <li>
-                          <i class="fa fa-check-circle"></i> Planning,
+                          <i className="fa fa-check-circle"></i> Planning,
                           Prototyping, Visualization and Documentation
                         </li>
                         <li>
-                          <i class="fa fa-check-circle"></i> First Class and
+                          <i className="fa fa-check-circle"></i> First Class and
                           Talented on Demand Dedicated Development Team
                         </li>
                         <li>
-                          <i class="fa fa-check-circle"></i> Excellent
+                          <i className="fa fa-check-circle"></i> Excellent
                           interpersonal Communication
                         </li>
                         <li>
-                          <i class="fa fa-check-circle"></i> Maintaining Global
+                          <i className="fa fa-check-circle"></i> Maintaining Global
                           Quality Standard and Testing Procedure
                         </li>
                         <li>
-                          <i class="fa fa-check-circle"></i> 100% Customer
+                          <i className="fa fa-check-circle"></i> 100% Customer
                           Satisfaction
                         </li>
                         <li>
-                          <i class="fa fa-check-circle"></i> Trending UI/ UX
+                          <i className="fa fa-check-circle"></i> Trending UI/ UX
                           Design and Maintaining Software Development procedure
                         </li>
                         <li>
-                          <i class="fa fa-check-circle"></i> High Level Security
+                          <i className="fa fa-check-circle"></i> High Level Security
                           and Risk management
                         </li>
                         <li>
-                          <i class="fa fa-check-circle"></i> Data Security and 3
+                          <i className="fa fa-check-circle"></i> Data Security and 3
                           Leyer Backup Storage
                         </li>
                         <li>
-                          <i class="fa fa-check-circle"></i> On time Delivery
+                          <i className="fa fa-check-circle"></i> On time Delivery
                           and Implementation.
                         </li>
                         <li>
-                          <i class="fa fa-check-circle"></i> 24/7 After Sales
+                          <i className="fa fa-check-circle"></i> 24/7 After Sales
                           Service and Support with ticketing System.
                         </li>
                         <li>
-                          <i class="fa fa-check-circle"></i> Free on Demand IT
+                          <i className="fa fa-check-circle"></i> Free on Demand IT
                           Consultation
                         </li>
                         <li>
-                          <i class="fa fa-check-circle"></i> High Integrity and
+                          <i className="fa fa-check-circle"></i> High Integrity and
                           Compassion
                         </li>
                         <li>
-                          <i class="fa fa-check-circle"></i> Data Driven
+                          <i className="fa fa-check-circle"></i> Data Driven
                           Decisions
                         </li>
                         <li>
-                          <i class="fa fa-check-circle"></i> Informative
+                          <i className="fa fa-check-circle"></i> Informative
                           Reporting and Graphical BI Dash Board
                         </li>
                       </ul>
@@ -200,7 +200,7 @@ const dynamicHref9 = "/services/digital-marketing-solutions";
                   <div className="inner-column wow fadeInLeft">
                     <div className="image-box">
                       <figure className="image overlay-anim wow fadeInUp">
-                        <img src="images/resource/why-us.jpg" alt="" />
+                        <img src="images/resource/why-us.jpg" alt="image" />
                       </figure>
                     </div>
                   </div>
@@ -230,7 +230,7 @@ const dynamicHref9 = "/services/digital-marketing-solutions";
                       href="images/resource/project-1.jpg"
                       className="lightbox-image"
                     >
-                      <img src="images/resource/project-1.jpg" alt="" />
+                      <img src="images/resource/project-1.jpg" alt="image" />
                     </a>{" "}
                   </figure>
                   <div className="caption-box">
@@ -249,7 +249,7 @@ const dynamicHref9 = "/services/digital-marketing-solutions";
                       href="images/resource/project-2.jpg"
                       className="lightbox-image"
                     >
-                      <img src="images/resource/project-2.jpg" alt="" />
+                      <img src="images/resource/project-2.jpg" alt="image" />
                     </a>{" "}
                   </figure>
                   <div className="caption-box">
@@ -268,7 +268,7 @@ const dynamicHref9 = "/services/digital-marketing-solutions";
                       href="images/resource/project-3.jpg"
                       className="lightbox-image"
                     >
-                      <img src="images/resource/project-3.jpg" alt="" />
+                      <img src="images/resource/project-3.jpg" alt="image" />
                     </a>{" "}
                   </figure>
                   <div className="caption-box">
@@ -287,7 +287,7 @@ const dynamicHref9 = "/services/digital-marketing-solutions";
                       href="images/resource/project-4.jpg"
                       className="lightbox-image"
                     >
-                      <img src="images/resource/project-4.jpg" alt="" />
+                      <img src="images/resource/project-4.jpg" alt="image" />
                     </a>{" "}
                   </figure>
                   <div className="caption-box">
@@ -306,7 +306,7 @@ const dynamicHref9 = "/services/digital-marketing-solutions";
                       href="images/resource/project-1.jpg"
                       className="lightbox-image"
                     >
-                      <img src="images/resource/project-1.jpg" alt="" />
+                      <img src="images/resource/project-1.jpg" alt="image" />
                     </a>{" "}
                   </figure>
                   <div className="caption-box">
@@ -325,7 +325,7 @@ const dynamicHref9 = "/services/digital-marketing-solutions";
                       href="images/resource/project-2.jpg"
                       className="lightbox-image"
                     >
-                      <img src="images/resource/project-2.jpg" alt="" />
+                      <img src="images/resource/project-2.jpg" alt="image" />
                     </a>{" "}
                   </figure>
                   <div className="caption-box">
@@ -344,7 +344,7 @@ const dynamicHref9 = "/services/digital-marketing-solutions";
                       href="images/resource/project-3.jpg"
                       className="lightbox-image"
                     >
-                      <img src="images/resource/project-3.jpg" alt="" />
+                      <img src="images/resource/project-3.jpg" alt="image" />
                     </a>{" "}
                   </figure>
                   <div className="caption-box">
@@ -363,7 +363,7 @@ const dynamicHref9 = "/services/digital-marketing-solutions";
                       href="images/resource/project-4.jpg"
                       className="lightbox-image"
                     >
-                      <img src="images/resource/project-4.jpg" alt="" />
+                      <img src="images/resource/project-4.jpg" alt="image" />
                     </a>{" "}
                   </figure>
                   <div className="caption-box">

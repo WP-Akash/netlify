@@ -56,10 +56,10 @@ function About() {
                                     <div className="image-box">
                                         <span className="icon icon-dots-one bounce-x" />
                                         <figure className="image-1 overlay-anim wow fadeInUp">
-                                            <img src="/images/resource/about-1.jpg" alt="" />
+                                            <img src="/images/resource/about-1.jpg" alt="images" />
                                         </figure>
                                         <figure className="image-2 overlay-anim wow fadeInRight">
-                                            <img src="/images/resource/about-2.jpg" alt="" />
+                                            <img src="/images/resource/about-2.jpg" alt="images" />
                                         </figure>
                                         <span className="icon-box icon-one">
                                             <i className="flaticon-innovation" />

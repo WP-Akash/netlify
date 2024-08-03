@@ -9,7 +9,7 @@ function Menu() {
           <div className="logo-box">
             <div className="logo">
               <Link href="/">
-                <img src="/images/The-ICT-hub-white.png" alt="" title="Tronis" />
+                <img src="/images/The-ICT-hub-white.png" alt="The-ICT-hub-white.png" title="Tronis" />
               </Link>
             </div>
             <button className="ui-btn ui-btn search-btn">
@@ -188,7 +188,7 @@ function Menu() {
             <div className="upper-box">
               <div className="nav-logo">
                 <a href="/">
-                  <img src="/images/The-ICT-hub-white.png" alt="" title="" />
+                  <img src="/images/The-ICT-hub-white.png" alt="The-ICT-hub-white.png" title="" />
                 </a>
               </div>
               <div className="close-btn">
@@ -283,7 +283,7 @@ function Menu() {
               {/*Logo*/}
               <div className="logo">
                 <a href="/" title="">
-                  <img src="/images/The-ICT-hub-logo.png" alt="" title="" />
+                  <img src="/images/The-ICT-hub-logo.png" alt="The-ICT-hub-white.png" title="" />
                 </a>
               </div>
               {/*Right Col*/}

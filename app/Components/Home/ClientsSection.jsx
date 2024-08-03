@@ -27,7 +27,7 @@ function ClientsSection() {
                       <div className="image-column col-lg-4 col-md-6 col-sm-12">
                         <div className="image-box">
                           <figure className="image">
-                            <img src="images/resource/tab-img.jpg" alt="" />
+                            <img src="images/resource/tab-img.jpg" alt="image" />
                           </figure>
                           <i className="icon flaticon-mission" />
                         </div>
@@ -74,7 +74,7 @@ function ClientsSection() {
                       <div className="image-column col-lg-4 col-md-6 col-sm-12">
                         <div className="image-box">
                           <figure className="image">
-                            <img src="images/resource/tab-img.jpg" alt="" />
+                            <img src="images/resource/tab-img.jpg" alt="image" />
                           </figure>
                           <i className="icon flaticon-mission" />
                         </div>
@@ -121,7 +121,7 @@ function ClientsSection() {
                       <div className="image-column col-lg-4 col-md-6 col-sm-12">
                         <div className="image-box">
                           <figure className="image">
-                            <img src="images/resource/tab-img.jpg" alt="" />
+                            <img src="images/resource/tab-img.jpg" alt="image" />
                           </figure>
                           <i className="icon flaticon-mission" />
                         </div>
@@ -167,31 +167,31 @@ function ClientsSection() {
                 <li className="slide-item">
                   {" "}
                   <a href="#">
-                    <img src="images/resource/client.png" alt="" />
+                    <img src="images/resource/client.png" alt="image" />
                   </a>{" "}
                 </li>
                 <li className="slide-item">
                   {" "}
                   <a href="#">
-                    <img src="images/resource/client.png" alt="" />
+                    <img src="images/resource/client.png" alt="image" />
                   </a>{" "}
                 </li>
                 <li className="slide-item">
                   {" "}
                   <a href="#">
-                    <img src="images/resource/client.png" alt="" />
+                    <img src="images/resource/client.png" alt="image" />
                   </a>{" "}
                 </li>
                 <li className="slide-item">
                   {" "}
                   <a href="#">
-                    <img src="images/resource/client.png" alt="" />
+                    <img src="images/resource/client.png" alt="image" />
                   </a>{" "}
                 </li>
                 <li className="slide-item">
                   {" "}
                   <a href="#">
-                    <img src="images/resource/client.png" alt="" />
+                    <img src="images/resource/client.png" alt="image" />
                   </a>{" "}
                 </li>
               </ul>

@@ -18,7 +18,7 @@ function TestimonialSection() {
                     <div className="inner-box">
                       <div className="image-box">
                         <figure className="image">
-                          <img src="images/resource/testi-1.png" alt="" />
+                          <img src="images/resource/testi-1.png" alt="testi-1.png" />
                         </figure>
                       </div>
                       <div className="text">
@@ -34,7 +34,7 @@ function TestimonialSection() {
                     <div className="inner-box">
                       <div className="image-box">
                         <figure className="image">
-                          <img src="images/resource/testi-1.png" alt="" />
+                          <img src="images/resource/testi-1.png" alt="testi-1.png" />
                         </figure>
                       </div>
                       <div className="text">
@@ -50,7 +50,7 @@ function TestimonialSection() {
                     <div className="inner-box">
                       <div className="image-box">
                         <figure className="image">
-                          <img src="images/resource/testi-1.png" alt="" />
+                          <img src="images/resource/testi-1.png" alt="testi-1.png" />
                         </figure>
                       </div>
                       <div className="text">
@@ -66,7 +66,7 @@ function TestimonialSection() {
                     <div className="inner-box">
                       <div className="image-box">
                         <figure className="image">
-                          <img src="images/resource/testi-1.png" alt="" />
+                          <img src="images/resource/testi-1.png" alt="testi-1.png" />
                         </figure>
                       </div>
                       <div className="text">
@@ -84,22 +84,22 @@ function TestimonialSection() {
                 <div className="swiper-wrapper">
                   <div className="swiper-slide testimonial-thumb">
                     <figure className="image">
-                      <img src="images/resource/testi-1.png" alt="" />
+                      <img src="images/resource/testi-1.png" alt="testi-1.png" />
                     </figure>
                   </div>
                   <div className="swiper-slide testimonial-thumb">
                     <figure className="image">
-                      <img src="images/resource/testi-thumb-2.png" alt="" />
+                      <img src="images/resource/testi-thumb-2.png" alt="testi-1.png" />
                     </figure>
                   </div>
                   <div className="swiper-slide testimonial-thumb">
                     <figure className="image">
-                      <img src="images/resource/testi-thumb-3.png" alt="" />
+                      <img src="images/resource/testi-thumb-3.png" alt="testi-1.png" />
                     </figure>
                   </div>
                   <div className="swiper-slide testimonial-thumb">
                     <figure className="image">
-                      <img src="images/resource/testi-thumb-3.png" alt="" />
+                      <img src="images/resource/testi-thumb-3.png" alt="testi-1.png" />
                     </figure>
                   </div>
                 </div>

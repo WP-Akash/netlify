@@ -20,7 +20,7 @@ function Slider() {
             {/* MAIN IMAGE */}
             <img
               src="images/main-slider/1.jpg"
-              alt=""
+              alt="image"
               className="rev-slidebg"
             />
             <div
@@ -103,7 +103,7 @@ function Slider() {
             {/* MAIN IMAGE */}
             <img
               src="images/main-slider/1.jpg"
-              alt=""
+              alt="image"
               className="rev-slidebg"
             />
             <div
